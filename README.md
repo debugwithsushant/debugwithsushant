@@ -1,15 +1,15 @@
-# 👋 Hi there, I’m Sushant Pawar  
+# 👋 Hi, I’m Sushant Pawar  
 
-💻 **Computer Science Undergraduate | Full-Stack Developer in the Making**  
+💻 **Computer Science Undergraduate | Aspiring Full-Stack Developer**  
 🚀 Skilled in **Java, Python, and MERN Stack** | Passionate about Open Source & Problem Solving  
 
 ---
 
 ## 🔹 About Me  
-- 🎓 CS undergraduate exploring **Java applications, web development, and databases**  
-- 💡 Completed internships in **MERN stack** & **Java programming**  
+- 🎓 CS undergraduate with hands-on experience in **web development & Java applications**  
+- 💡 Internship experience in **MERN stack development** and **Java programming**  
 - 🛠 Built projects like **Student Management System** (Java + Oracle DB)  
-- 🌱 Always learning, experimenting, and contributing to open-source projects  
+- 🌱 Continuously learning, experimenting, and contributing to open source  
 
 ---
 
@@ -25,6 +25,20 @@
 
 ---
 
+## 🔹 Projects  
+
+### 📘 [Student Management System](https://github.com/debugwithsushant/Student_Management_System)  
+A **Java-based desktop application** for managing student data.  
+- 🛠 Tech: Java, Oracle DB, File Handling  
+- 📂 Features: Add, update, search & delete student records  
+
+### 🌐 [MERN Stack Applications](https://github.com/debugwithsushant)  
+Full-stack projects built during my internship.  
+- 🛠 Tech: MongoDB, Express.js, React, Node.js  
+- ⚡ Focused on CRUD apps, authentication, and REST APIs  
+
+---
+
 ## 🔹 GitHub Stats  
 ![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=debugwithsushant&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debugwithsushant&layout=compact&theme=tokyonight)  
@@ -33,7 +47,7 @@
 
 ## 🔹 Connect With Me  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debugwithsushant)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-pawar-4a9b43375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sushant-pawar-4a9b43375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushantpawar1232@gmail.com)  
 
 ---
