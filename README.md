@@ -33,7 +33,7 @@
 
 ## 🔹 Connect With Me  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debugwithsushant)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-pawar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sushant-pawar](https://www.linkedin.com/in/sushant-pawar-4a9b43375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushantpawar1232@gmail.com)  
 
 ---
