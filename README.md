@@ -61,7 +61,7 @@
   <a href="https://github.com/debugwithsushant" style="margin: 30px;">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/sushant-pawar-4a9b43375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="margin: 30px;">
+  <a href="https://www.linkedin.com/in/sushant-pawar-4a9b43375" style="margin: 30px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sushantpawar1232@gmail.com" style="margin: 30px;">
