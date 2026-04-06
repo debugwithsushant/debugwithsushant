@@ -158,37 +158,4 @@
 
 ---
 
-## 💡 Quote
-
-<p align="center">
-  <b>✨ Code. Learn. Build. Repeat. 🚀</b>
-</p>
-
-
-
-
-## 🔹 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debugwithsushant&show_icons=true&theme=tokyonight" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debugwithsushant&theme=tokyonight" height="150px"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugwithsushant&layout=compact&theme=tokyonight" height="250px"/>
-</p>
-
-
-
-## 🔹 Connect With Me  
-<p align="center">
-  <a href="https://github.com/debugwithsushant" style="margin: 30px;">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sushant-pawar-4a9b43375" style="margin: 30px;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sushantpawar1232@gmail.com" style="margin: 30px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-
-
 ### ⭐️ *“Always building. Always learning.”*  
