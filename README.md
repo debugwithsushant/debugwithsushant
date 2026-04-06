@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sushant Pawar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Azure+Certified+(AZ-900);Java+%7C+Python+%7C+React+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Cybersecurity;Azure+Certified+(AZ-900);Data+%7C+Analytics;Java+%7C+Python+%7C+React+Developer" />
 </p>
 
 ---
