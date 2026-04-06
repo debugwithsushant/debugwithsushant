@@ -67,65 +67,65 @@
 
 ### 🏫 College Administrative System
 
-💡 Full-stack web application using **Java, Hibernate, Oracle DB**
-🔐 Role-based access (Admin, Faculty, Student)
-📊 Features: Attendance, Marks, Fees Management
+💡 Full-stack web application using **Java, Hibernate, Oracle DB** </br>
+🔐 Role-based access (Admin, Faculty, Student) </br>
+📊 Features: Attendance, Marks, Fees Management </br>
 
 ---
 
 ### 💰 Crypto Portfolio Tracker with Risk Detection
 
-⚛️ React + Spring Boot + MySQL
-📈 Real-time pricing + Scam Detection + P&L Tracking
-🔗 APIs: CoinGecko, Binance, Etherscan
+⚛️ React + Spring Boot + MySQL </br>
+📈 Real-time pricing + Scam Detection + P&L Tracking </br>
+🔗 APIs: CoinGecko, Binance, Etherscan </br>
 
 ---
 
 ### 🤖 BankBot AI Chatbot
 
-🐍 Python + Streamlit + Ollama
-🧠 Hybrid AI system (FAQ + Generative AI)
-🏦 Domain-specific banking chatbot
+🐍 Python + Streamlit + Ollama </br>
+🧠 Hybrid AI system (FAQ + Generative AI) </br>
+🏦 Domain-specific banking chatbot </br>
 
 ---
 
 ### 🔐 Secure Password Generator
 
-☕ Java Swing Application
-🔒 SecureRandom + Regex Validation
-📊 Password Strength Analyzer
+☕ Java Swing Application </br>
+🔒 SecureRandom + Regex Validation </br>
+📊 Password Strength Analyzer </br>
 
 ---
 
 ### 📁 File Encryption Tool
 
-🐍 Python + Tkinter GUI
-🔐 File Encryption & Decryption System
+🐍 Python + Tkinter GUI </br>
+🔐 File Encryption & Decryption System </br>
 
 ---
 
 ## 🏢 Internships
 
-💼 Software Developer Intern – Infosys Springboard
-📊 Data Analyst Intern – Axcentra
-💻 Java Developer Intern – Cognifyz Technologies
-⚙️ Java Programming Intern – VaultofCodes
+💼 Software Developer Intern – Infosys Springboard </br>
+📊 Data Analyst Intern – Axcentra </br>
+💻 Java Developer Intern – Cognifyz Technologies </br>
+⚙️ Java Programming Intern – VaultofCodes </br>
 
 ---
 
 ## 📜 Certifications
 
-🏅 Microsoft Certified: Azure Fundamentals (AZ-900)
-📊 Deloitte Data Analytics Job Simulation
-📘 Infosys Springboard (DSA, DBMS, Agile, Java, Python)
-💻 Java & Python Certifications (OneRoadmap)
+🏅 Microsoft Certified: Azure Fundamentals (AZ-900) </br>
+📊 Deloitte Data Analytics Job Simulation </br>
+📘 Infosys Springboard (DSA, DBMS, Agile, Java, Python) </br>
+💻 Java & Python Certifications (OneRoadmap) </br>
 
 ---
 
 ## 🏆 Achievements
 
-🥇 TCS iON NQT Score: **88.27%**
-📈 Strong foundation in Programming, Problem Solving & Analytics
+🥇 TCS iON NQT Score: **88.27%** </br>
+📈 Strong foundation in Programming, Problem Solving & Analytics </br>
 
 ---
 
