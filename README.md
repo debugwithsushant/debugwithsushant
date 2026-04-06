@@ -8,14 +8,14 @@
 
 ## 🚀 About Me
 
-🎓 B.Sc. Computer Science Graduate
-💻 Aspiring Software Engineer | Full-Stack Developer
-☁️ Microsoft Azure Certified (AZ-900)
+🎓 B.Sc. Computer Science Graduate </br>
+💻 Aspiring Software Engineer | Full-Stack Developer </br>
+☁️ Microsoft Azure Certified (AZ-900) </br>
 
-✨ I build real-world applications that solve practical problems
-🔭 Currently working on **Full-Stack + AI-based projects**
-🌱 Learning **Advanced Backend, Cloud & Cybersecurity**
-💡 Interests: **Software Development | Data Analytics | Cybersecurity**
+✨ I build real-world applications that solve practical problems </br>
+🔭 Currently working on **Full-Stack + AI-based projects** </br>
+🌱 Learning **Advanced Backend, Cloud & Cybersecurity** </br>
+💡 Interests: **Software Development | Data Analytics | Cybersecurity** </br>
 
 ---
 
